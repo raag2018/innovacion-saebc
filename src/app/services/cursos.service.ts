@@ -7,6 +7,7 @@ import { cursoInterface } from '../interfaces/cursos.interface';
 })
 export class CursosService {
 cargando = true;
+cursos:  cursoInterface[] = [];
   constructor(private http: HttpClient) {
     this.cargarCursos();
    }
@@ -15,8 +16,10 @@ cargando = true;
     this.http.get('https://saebc-96a8a.firebaseio.com/cursos_idx.json')
     .subscribe( (resp: cursoInterface[] ) =>{
       console.log(resp);
-      this.cargando = false;
-
+       this.cursos = resp;
+       
+           this.cargando = false;
+ 
     });
   }
 }

@@ -3,28 +3,71 @@
         "cod": "cur-1",
         "titulo": "Matemáticas: ARITMÉTICA",
        "tutor": "Wylner Jose Porras Guerrero",
-        "url": "cur-1.jpg",
+        "url": "cur-1",
         "categoria": "Matematicas"
     }, 
     {
         "cod": "cur-2",
         "titulo": "Matemáticas: ÁLGEBRA",
         "tutor": "Marlon Cruz Blanco",
-        "url": "cur-2.jpg",
+        "url": "cur-2",
         "categoria": "Matematicas"  
     },
    {
-       "cod": "cur-2",
-       "titulo": "Curso de word 2016 básico",
-       "tutor": "Marlon Cruz Blanco",
-       "url": "proyect-2",
-       "categoria": "MSoffice"
-   },
-   {
-       "cod": "cur-3",
-       "titulo": "Curso de word 2016 básico",
-       "tutor": "Marlon Cruz Blanco",
-       "url": "proyect-3",
-       "categoria": "MSoffice"
-   }
+        "cod": "cur-3",
+        "titulo": "Inglés para Niños - Nivel 1 Adventure (Genki Inglés)",
+       "tutor": "Juan Carlos Ramirez Duque",
+       "url": "cur-3",
+       "categoria": "Ingles"
+    },
+    {
+        "cod": "cur-4",
+        "titulo": "Automatización Profesional con Arduino | Módulo 1 ",
+        "tutor": "CRISTIANO NAZARIO",
+       "url": "cur-4",
+       "categoria": "Electronica"
+    },
+    {
+        "cod": "cur-5",
+        "titulo": "✔ Curso: Aprender como hacer gráficos en Excel y Power BI ",
+       "tutor": "Javier Gomez",
+       "url": "cur-5",
+       "categoria": "Microsoft"
+    },
+    {
+        "cod": "cur-6",
+        "titulo": "✔ Curso Excel de Tablas Dinámicas - Introducción Práctica",
+       "tutor": "Javier Gomez",
+       "url": "cur-6",
+       "categoria": "Microsoft"
+    },
+    {
+        "cod": "cur-7",
+        "titulo": "Trigonometría Básica",
+        "tutor": "Jesús Peña Suárez",
+       "url": "cur-7",
+       "categoria": "Matematicas"
+    },
+    {
+        "cod": "cur-8",
+        "titulo": "Aprende Excel 2019 básico desde cero",
+        "tutor": "Fernando Gianfranco Barruetto",
+       "url": "cur-8",
+       "categoria": "Microsoft"
+    },
+
+    {
+        "cod": "cur-9",
+        "titulo": "Probabilidad Básica para Principiantes",
+        "tutor": "Jose Barreto",
+       "url": "cur-9",
+       "categoria": "Matematicas"
+    },
+    {
+        "cod": "cur-10",
+        "titulo": "Derivación en Una Variable Real!",
+        "tutor": "Alex Torres Juan",
+       "url": "cur-10",
+       "categoria": "Matematicas"
+    }
 ]

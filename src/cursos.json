@@ -5,7 +5,8 @@
         "des-2": "La aritmética es la base cuando quieres aprender la Matemática. Sobretodo para las pruebas de admisión de cualquier universidad en cualquier país que te encuentres la vas a necesitar. De hecho, la aritmética es tan elemental para el ser humano que sin ella no existiría el Razonamiento Cuantitativo. En este curso tendrás de manera gratuita TODO lo relacionado a la Aritmética. ¡Disfrútalo!",
         "tutor": "Wylner Jose Porras Guerrero",
         "profesion": "El Ingeniero de la Educación",
-        "des-tutor": "Ingeniero Electrónico de profesión, Educador por pasión. La vida me ha llevado a entender que mi propósito es cambiar el sistema educativo, y si... se que suena que estoy loco; los locos son los que cambian al mundo. Te invito a ver mi canal de youtube: ÉpsilonAcademy, y seguirme en mis redes sociales: ChamoProfe"
+        "des-tutor": "Ingeniero Electrónico de profesión, Educador por pasión. La vida me ha llevado a entender que mi propósito es cambiar el sistema educativo, y si... se que suena que estoy loco; los locos son los que cambian al mundo. Te invito a ver mi canal de youtube: ÉpsilonAcademy, y seguirme en mis redes sociales: ChamoProfe",
+        "enlace": "epsilonpreu_aritmetica/"
     }, 
     "cur-2":{
         "titulo": "Matemáticas: ÁLGEBRA",
@@ -13,7 +14,8 @@
         "des-2": "De fondo, el ÁLGEBRA es llevar toda la aritmética a operaciones donde se combinan letras y números que muestran de manera genérica expresiones matemáticas que independientemente del valor que tomen esas letras, se va a cumplir el resultado que se obtiene",
         "tutor": "Marlon Cruz Blanco",
         "profesion": "Ingeniero de Sistemas",
-        "des-tutor": "Actualmente trabajo independiente, enseñando lo que yo se y sigo aprendiendo muchas cosas de negocio y marketing, claramente aplicado en lo digital."
+        "des-tutor": "Actualmente trabajo independiente, enseñando lo que yo se y sigo aprendiendo muchas cosas de negocio y marketing, claramente aplicado en lo digital.",
+        "enlace": "epsilonpreu_algebra/"
     },
     
     "cur-3":{
@@ -22,7 +24,8 @@
         "des-2": "En este nivel tus hijos aprenderán: Genki Disco Warm Up, Rock, Paper, Scissors, What’s your name?, How are you?, I’m a superhero, Left & Right, I, You, He, She… Thank You! Dar comandos en inglés, presentarse, preguntar y responder ¿cómo estás?, hablar sobre habilidades, dar y recibir direcciones, los pronombre personales, expresar agradecimiento y despedirse. Enfoque: Hablar inglés, desarrollar la autoconfianza, divertirse con las canciones y los juegos en inglés para conseguir excelentes resultados. Repetir en voz alta las palabras y oraciones, hacer los gestos, estar en movimiento, cantar en voz alta y practicar el inglés aprendido con los juegos y actividades.",
         "tutor": "Juan Carlos Ramirez Duque",
         "profesion": "Profesor de Inglés",
-        "des-tutor": "Ha enseñado Inglés en Corea del sur, Rusia, Bielorrusia, Tailandia y a un montón de estudiantes japoneses."
+        "des-tutor": "Ha enseñado Inglés en Corea del sur, Rusia, Bielorrusia, Tailandia y a un montón de estudiantes japoneses.",
+        "enlace": "curso-de-ingles-para-ninos-y-la-familia/"
     },
     "cur-4":{
         "titulo": "Automatización Profesional con Arduino | Módulo 1 ",
@@ -30,7 +33,62 @@
         "des-2": "Este es el primer curso que te enseña de forma totalmente práctica y simple que cualquier profesional, independiente de su área de actuación, es capaz de hacer automatizaciones, sean para la industria o como hobby.",
         "tutor": "CRISTIANO NAZARIO",
         "profesion": "Eng. Me. de Automação e Controle",
-        "des-tutor": "Mestre e Graduado em Engenharia Mecatrônica, Técnico em Eletrônica, proprietário da empresa Crescer Engenharia, especializada em automação industrial e Eletrônica Embarcada. Ministrou de 2012 a 2015 o curso EAD de Atualização Tecnológica em Automação Industrial para instrutores do Senai de todo o Brasil. Ministrou a disciplina de Fundamentos da Eletrotécnica no Senai - Cetemp e as disciplinas de Eletrônica Aplicada e Embarcada no curso de Pós Graduação no Senai - Toledo em 2016. Até 2012 acumulou 19 anos de experiência na indústria e foi coordenador de produção e manutenção na Souza Cruz e Vonpar, atuando na Souza Cruz também como Gestor de TI. Na Agco do Brasil foi responsável pelo laboratório de testes para desenvolvimento de novos produtos, tendo passado também pela área de manutenção da GKN."
+        "des-tutor": "Mestre e Graduado em Engenharia Mecatrônica, Técnico em Eletrônica, proprietário da empresa Crescer Engenharia, especializada em automação industrial e Eletrônica Embarcada. Ministrou de 2012 a 2015 o curso EAD de Atualização Tecnológica em Automação Industrial para instrutores do Senai de todo o Brasil. Ministrou a disciplina de Fundamentos da Eletrotécnica no Senai - Cetemp e as disciplinas de Eletrônica Aplicada e Embarcada no curso de Pós Graduação no Senai - Toledo em 2016. Até 2012 acumulou 19 anos de experiência na indústria e foi coordenador de produção e manutenção na Souza Cruz e Vonpar, atuando na Souza Cruz também como Gestor de TI. Na Agco do Brasil foi responsável pelo laboratório de testes para desenvolvimento de novos produtos, tendo passado também pela área de manutenção da GKN.",
+        "enlace": "automatizacion-profesional-con-arduino-modulo-1/"
+    },
+    "cur-5":{
+        "titulo": "✔ Curso: Aprender como hacer gráficos en Excel y Power BI ",
+        "des-1": "Curso gratis Excel y Power BI (2019) Tutorial con prácticas para crear reportes y gráficos en Microsoft Power BI y Excel ",
+        "des-2": "Aprender gratis Excel y Power BI en este curso tutorial con ejercicios prácticos para realizar reportes con gráficos y visualización de datos desde cero.",
+        "tutor": "Javier Gomez",
+        "profesion": "MBA, MOS®, MCP®, CAPM®, Data Analyst",
+        "des-tutor": "Javier es un MBA, certificado como Microsoft Expert, y Project Manager por el PMI. Con basta experiencia en Data Analysis y Business Intelligence, forma parte del equipo Udemy para contribuir con la misión de ayudar a individuos a lograr sus metas y perseguir sus sueños.",
+        "enlace": "tutorial-microsoft-excel-power-bi-aprender-hacer-graficos/"
+    },
+    "cur-6":{
+        "titulo": "✔ Curso Excel de Tablas Dinámicas - Introducción Práctica",
+        "des-1": "Curso Gratis Excel de Tablas Dinámicas - Excel Básico a Avanzado - Ejercicios Prácticos con Tablas Dinámicas y Gráficos ",
+        "des-2": "Este es un Curso Gratuito - Vídeo tutorial de Excel para aprender a crear y utilizar Tablas dinámicas (Pivot Tables) desde un nivel básico hasta avanzado. Todo esto con ejemplos y ejercicios prácticos para comprender y dominar las Tablas Dinámicas, Gráficos y funciones generales de Excel.",
+        "tutor": "Javier Gomez",
+        "profesion": "MBA, MOS®, MCP®, CAPM®, Data Analyst",
+        "des-tutor": "Javier es un MBA, certificado como Microsoft Expert, y Project Manager por el PMI. Con basta experiencia en Data Analysis y Business Intelligence, forma parte del equipo Udemy para contribuir con la misión de ayudar a individuos a lograr sus metas y perseguir sus sueños.",
+        "enlace": "curso-gratis-tutorial-microsoft-excel-tablas-dinamicas-graficos/"
+    },
+    "cur-7":{
+        "titulo": "Trigonometría Básica",
+        "des-1": "Paso a Paso ",
+        "des-2": "En este curso tratamos la trigonometría de forma básica, empezando desde cero, desde los conceptos más básicos para poder entender el lenguaje de dicho campo, a medida que se avanza vamos tratando los temas explicando de donde sale cada cosa y el porqué, también queremos compartir la forma de entender la manera en que se escribe en los libros sobre los temas trigonométricos, así que vamos explicando cada símbolo, cada dibujito y cada de talle para que luego tu puedas estudiar con cualquier libro de trigonometría y entender lo que se te dice, también compartimos algunos trucos o ayudas nemotécnicas para facilitar el aprendizaje.",
+        "tutor": "Jesús Peña Suárez",
+        "profesion": "Investigador científico",
+        "des-tutor": "Profesional de la ingeniería química, con maestrías en ingeniería térmica e ingeniería y tecnología ambiental, doctorando en eficiencia energética y sostenibilidad en ingeniería y arquitectura.",
+        "enlace": "trigonometria-basica/"
+    },
+    "cur-8":{
+        "titulo": "Aprende Excel 2019 básico desde cero",
+        "des-1": "Usa Excel desde 2013 a 2019 incluyendo 365 sin introducciones largas y ejercicios en cada tema",
+        "des-2": "Con esta Guía definitiva podrás aprender de cero múltiples soluciones en tu día a día y resaltar profesionalmente usando Excel en cualquier versión.",
+        "tutor": "Fernando Gianfranco Barruetto",
+        "profesion": "Ing. Industrial, Lean Six Sigma Black Belt y CQPA ASQ®",
+        "des-tutor": "Profesional en Ingeniería Industrial, Especializado en Mejora, Gestión de Procesos, Sistemas integrados de Gestión y Análisis de Datos. Además soy Certificado en Quality Process Analyst y Lean Six Sigma Black Belt por ASQ (American Society for Quality).",
+        "enlace": "aprende-excel-basico-desde-cero/"
+    },
+    "cur-9":{
+        "titulo": "Probabilidad Básica para Principiantes",
+        "des-1": "Técnicas de conteo: Combinatoria, Variaciones, Permutaciones y principios de Estadistica",
+        "des-2": "Es un curso básico asequible a todo principiante. Se presentan ejemplos de fácil comprensión los cuales van aumentando en dificultad a medida que avanza el curso. Los estudiantes participan con preguntas y sugerencias. El curso se inicia con ejemplos básicos y el nivel de dificultad aumenta al progresar en sus lecciones. Su actualización es continua.",
+        "tutor": "Jose Barreto",
+        "profesion": "Licenciado y Master en Matemáticas",
+        "des-tutor": "Egresado de la Universidad del Valle en Cali, Colombia. Ex-director del plan de estudios de  Matemáticas de la facultad de Ciencias de la misma Universidad. Profesor Universitario en USA como Teaching Assistant, mientras desarrollaba sus estudios de Postgrado. Reconocido profesor de Universidades Colombianas y Venezolanas. Tiene miles de seguidores en su cuenta de Youtube y en sus grupos de matemáticas en Facebook. Los cursos y asesorías a distancia y cientos de ayudas en todas las ramas de las matemáticas universitarias que ofrece el profesor José Arturo Barreto por internet y redes sociales son internacionalmente reconocidas.",
+        "enlace": "probabilidad-basica-para-principiantes/"
+    },
+    "cur-10":{
+        "titulo": "Derivación en Una Variable Real!",
+        "des-1": "Aprende no solo a derivar, sino a entender qué hay detrás y aprender a usar las derivadas!",
+        "des-2": "En este curso aprenderás de una forma formal aunque manteniendo un tono cordial y buscando no causar dolores de cabeza y frustración sino más bien un entorno calmado, propicio para el aprendizaje, todo lo relacionado con las derivadas para que puedas enfrentarte a ellas en clase y no morir en el intento!",
+        "tutor": "Alex Torres Juan",
+        "profesion": "Matemático",
+        "des-tutor": "Soy un estudiante universitario del grado de matemáticas(2017-2021), con ganas de aportar su granito de arena a enseñar el lenguaje de la ciencia a quien esté dispuesto a aprenderlo.",
+        "enlace": "domina-las-derivadas/"
     },
     "cur-n":{
         "titulo": "",
@@ -38,7 +96,8 @@
         "des-2": "",
         "tutor": "",
         "profesion": "",
-        "des-tutor": ""
+        "des-tutor": "",
+        "enlace": ""
     }
 
 }
