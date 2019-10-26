@@ -1,0 +1,44 @@
+{
+    "cur-1":{
+        "titulo": "Matemáticas: ARITMÉTICA",
+        "des-1": "ÉpsilonPreU, lo que aquí aprendes... ¡no lo olvidas! ",
+        "des-2": "La aritmética es la base cuando quieres aprender la Matemática. Sobretodo para las pruebas de admisión de cualquier universidad en cualquier país que te encuentres la vas a necesitar. De hecho, la aritmética es tan elemental para el ser humano que sin ella no existiría el Razonamiento Cuantitativo. En este curso tendrás de manera gratuita TODO lo relacionado a la Aritmética. ¡Disfrútalo!",
+        "tutor": "Wylner Jose Porras Guerrero",
+        "profesion": "El Ingeniero de la Educación",
+        "des-tutor": "Ingeniero Electrónico de profesión, Educador por pasión. La vida me ha llevado a entender que mi propósito es cambiar el sistema educativo, y si... se que suena que estoy loco; los locos son los que cambian al mundo. Te invito a ver mi canal de youtube: ÉpsilonAcademy, y seguirme en mis redes sociales: ChamoProfe"
+    }, 
+    "cur-2":{
+        "titulo": "Matemáticas: ÁLGEBRA",
+        "des-1": "ÉpsilonPreU, lo que aquí aprendes, no lo olvidas.",
+        "des-2": "De fondo, el ÁLGEBRA es llevar toda la aritmética a operaciones donde se combinan letras y números que muestran de manera genérica expresiones matemáticas que independientemente del valor que tomen esas letras, se va a cumplir el resultado que se obtiene",
+        "tutor": "Marlon Cruz Blanco",
+        "profesion": "Ingeniero de Sistemas",
+        "des-tutor": "Actualmente trabajo independiente, enseñando lo que yo se y sigo aprendiendo muchas cosas de negocio y marketing, claramente aplicado en lo digital."
+    },
+    
+    "cur-3":{
+        "titulo": "Inglés para Niños - Nivel 1 Adventure (Genki Inglés)",
+        "des-1": "¡Su Hij@ Puede Hablar Inglés Con Confianza de Superhéroe!",
+        "des-2": "En este nivel tus hijos aprenderán: Genki Disco Warm Up, Rock, Paper, Scissors, What’s your name?, How are you?, I’m a superhero, Left & Right, I, You, He, She… Thank You! Dar comandos en inglés, presentarse, preguntar y responder ¿cómo estás?, hablar sobre habilidades, dar y recibir direcciones, los pronombre personales, expresar agradecimiento y despedirse. Enfoque: Hablar inglés, desarrollar la autoconfianza, divertirse con las canciones y los juegos en inglés para conseguir excelentes resultados. Repetir en voz alta las palabras y oraciones, hacer los gestos, estar en movimiento, cantar en voz alta y practicar el inglés aprendido con los juegos y actividades.",
+        "tutor": "Juan Carlos Ramirez Duque",
+        "profesion": "Profesor de Inglés",
+        "des-tutor": "Ha enseñado Inglés en Corea del sur, Rusia, Bielorrusia, Tailandia y a un montón de estudiantes japoneses."
+    },
+    "cur-4":{
+        "titulo": "Automatización Profesional con Arduino | Módulo 1 ",
+        "des-1": "Aprenda automatización con Cristiano Nazário, profesional referencia del área",
+        "des-2": "Este es el primer curso que te enseña de forma totalmente práctica y simple que cualquier profesional, independiente de su área de actuación, es capaz de hacer automatizaciones, sean para la industria o como hobby.",
+        "tutor": "CRISTIANO NAZARIO",
+        "profesion": "Eng. Me. de Automação e Controle",
+        "des-tutor": "Mestre e Graduado em Engenharia Mecatrônica, Técnico em Eletrônica, proprietário da empresa Crescer Engenharia, especializada em automação industrial e Eletrônica Embarcada. Ministrou de 2012 a 2015 o curso EAD de Atualização Tecnológica em Automação Industrial para instrutores do Senai de todo o Brasil. Ministrou a disciplina de Fundamentos da Eletrotécnica no Senai - Cetemp e as disciplinas de Eletrônica Aplicada e Embarcada no curso de Pós Graduação no Senai - Toledo em 2016. Até 2012 acumulou 19 anos de experiência na indústria e foi coordenador de produção e manutenção na Souza Cruz e Vonpar, atuando na Souza Cruz também como Gestor de TI. Na Agco do Brasil foi responsável pelo laboratório de testes para desenvolvimento de novos produtos, tendo passado também pela área de manutenção da GKN."
+    },
+    "cur-n":{
+        "titulo": "",
+        "des-1": "",
+        "des-2": "",
+        "tutor": "",
+        "profesion": "",
+        "des-tutor": ""
+    }
+
+}

@@ -2799,7 +2799,7 @@ pre code {
 
 img {
   border: 0;
-  height: auto;
+  height: 0;
   max-width: 100%;
 }
 

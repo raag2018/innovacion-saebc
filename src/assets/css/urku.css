@@ -324,7 +324,7 @@ body {
   position: absolute;
 }
 .rk-layout-ctrl:hover {
-  color: #a0a0a0;
+  color: blue;
 }
 .rk-layout-ctrl svg {
   height: 100%;

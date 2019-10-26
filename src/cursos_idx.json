@@ -1,0 +1,30 @@
+[
+    {
+        "cod": "cur-1",
+        "titulo": "Matemáticas: ARITMÉTICA",
+       "tutor": "Wylner Jose Porras Guerrero",
+        "url": "cur-1.jpg",
+        "categoria": "Matematicas"
+    }, 
+    {
+        "cod": "cur-2",
+        "titulo": "Matemáticas: ÁLGEBRA",
+        "tutor": "Marlon Cruz Blanco",
+        "url": "cur-2.jpg",
+        "categoria": "Matematicas"  
+    },
+   {
+       "cod": "cur-2",
+       "titulo": "Curso de word 2016 básico",
+       "tutor": "Marlon Cruz Blanco",
+       "url": "proyect-2",
+       "categoria": "MSoffice"
+   },
+   {
+       "cod": "cur-3",
+       "titulo": "Curso de word 2016 básico",
+       "tutor": "Marlon Cruz Blanco",
+       "url": "proyect-3",
+       "categoria": "MSoffice"
+   }
+]
