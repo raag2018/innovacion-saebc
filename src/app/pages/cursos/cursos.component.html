@@ -30,9 +30,9 @@
   
     </div>
       <div *ngIf="!_cursos.cargando" class="ae-masonry ae-masonry-md-2  ae-masonry-lg-3 ae-masonry-xl-3">
-        <a *ngFor="let item of _cursos.cursos" routerLink="/item" class="rk-item ae-masonry__item">
+        <a *ngFor="let item of _cursos.cursos" [routerLink]="['/item', item.cod]" class="rk-item ae-masonry__item">
           <img src="assets/info-cursos/{{ item.url }}.jpg" alt="">
-          <div class="item-meta">
+          <div [routerLink]="['/item', item.cod]" class="item-meta">
             <h2>{{ item.titulo }}</h2>
             <p>{{ item.tutor }}</p>
           </div>
