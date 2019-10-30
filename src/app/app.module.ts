@@ -11,6 +11,7 @@ import { CursosComponent } from './pages/cursos/cursos.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ProductoComponent } from './pages/producto/producto.component';
 import { ItemComponent } from './pages/item/item.component';
+import { SearchComponent } from './pages/search/search.component';
 
 
 @NgModule ({ 
@@ -23,7 +24,8 @@ import { ItemComponent } from './pages/item/item.component';
     CursosComponent,
     AboutComponent,
     ProductoComponent,
-    ItemComponent
+    ItemComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,
