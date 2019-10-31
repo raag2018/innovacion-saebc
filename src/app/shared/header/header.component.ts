@@ -17,8 +17,11 @@ export class HeaderComponent implements OnInit {
   
 buscarCurso(termino: string){
   if (termino.length < 1) {
+  
     return;
+    
   }
+  
   this.router.navigate(['/search', termino]);
 }
 }
