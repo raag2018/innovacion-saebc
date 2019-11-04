@@ -4,11 +4,13 @@ import { CursosComponent } from './pages/cursos/cursos.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ItemComponent } from './pages/item/item.component';
 import { SearchComponent } from './pages/search/search.component';
+import { EscuelasComponent } from './pages/escuelas/escuelas.component';
 const app_routes: Routes = [
 {path: 'home', component: CursosComponent},
 {path: 'about', component: AboutComponent},
 {path: 'item/:id', component: ItemComponent},
 {path: 'search/:termino', component: SearchComponent},
+{path: 'escuelas', component: EscuelasComponent},
 {path: '**', pathMatch: 'full', redirectTo: 'home'},
 ];
 @NgModule({

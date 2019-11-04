@@ -12,6 +12,7 @@ import { AboutComponent } from './pages/about/about.component';
 import { ProductoComponent } from './pages/producto/producto.component';
 import { ItemComponent } from './pages/item/item.component';
 import { SearchComponent } from './pages/search/search.component';
+import { EscuelasComponent } from './pages/escuelas/escuelas.component';
 
 
 @NgModule ({ 
@@ -25,7 +26,8 @@ import { SearchComponent } from './pages/search/search.component';
     AboutComponent,
     ProductoComponent,
     ItemComponent,
-    SearchComponent
+    SearchComponent,
+    EscuelasComponent
   ],
   imports: [
     BrowserModule,
