@@ -1,0 +1,510 @@
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /
+$ cd c:\xampp
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp
+$ cd htdocs
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs
+$ cd saebc
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git s
+ D docs/3rdpartylicenses.txt
+ D docs/assets/css/_ae/aurora-grid/dist/aurora-grid-debug.css
+ D docs/assets/css/_ae/aurora-grid/dist/aurora-grid-debug.min.css
+ D docs/assets/css/_ae/aurora-grid/dist/aurora-grid.css
+ D docs/assets/css/_ae/aurora-grid/dist/aurora-grid.min.css
+ D docs/assets/css/_ae/aurora-theme/dist/aurora-theme-base.css
+ D docs/assets/css/_ae/aurora-theme/dist/aurora-theme-base.min.css
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.eot
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.svg
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.ttf
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.woff
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.woff2
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.eot
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.svg
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.ttf
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.woff
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.woff2
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.eot
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.svg
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.ttf
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.woff
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.woff2
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.eot
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.svg
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.ttf
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.woff
+ D docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.woff2
+ D docs/assets/css/_ae/aurora-type/dist/aurora-type-debug.css
+ D docs/assets/css/_ae/aurora-type/dist/aurora-type-debug.min.css
+ D docs/assets/css/_ae/aurora-type/dist/aurora-type.css
+ D docs/assets/css/_ae/aurora-type/dist/aurora-type.min.css
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.eot
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.svg
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.ttf
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.woff
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.woff2
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.eot
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.svg
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.ttf
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.woff
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.woff2
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.eot
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.svg
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.ttf
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.woff
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.woff2
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.eot
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.svg
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.ttf
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.woff
+ D docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.woff2
+ D docs/assets/css/_ae/aurora-ui/dist/aurora-ui-debug.css
+ D docs/assets/css/_ae/aurora-ui/dist/aurora-ui-debug.min.css
+ D docs/assets/css/_ae/aurora-ui/dist/aurora-ui.css
+ D docs/assets/css/_ae/aurora-ui/dist/aurora-ui.min.css
+ D docs/assets/css/_ae/aurora-utils/dist/aurora-utils-debug.css
+ D docs/assets/css/_ae/aurora-utils/dist/aurora-utils-debug.min.css
+ D docs/assets/css/_ae/aurora-utils/dist/aurora-utils.css
+ D docs/assets/css/_ae/aurora-utils/dist/aurora-utils.min.css
+ D docs/assets/css/_aurora-pack.css
+ D docs/assets/css/_aurora-pack.min.css
+ D docs/assets/css/aurora-pack.css
+ D docs/assets/css/aurora-pack.min.css
+ D docs/assets/css/aurora-theme-base.css
+ D docs/assets/css/aurora-theme-base.min.css
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.eot
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.svg
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.ttf
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.woff
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.woff2
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.eot
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.svg
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.ttf
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.woff
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.woff2
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.eot
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.svg
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.ttf
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.woff
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.woff2
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.eot
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.svg
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.ttf
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.woff
+ D docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.woff2
+ D docs/assets/css/urku.css
+ D docs/assets/css/urku.min.css
+ D docs/assets/data/data-pagina.json
+ D docs/assets/img/Pacman-1s-200px.svg
+ D docs/assets/img/inner-1.jpg
+ D docs/assets/img/inner-2.jpg
+ D docs/assets/img/inner-3.jpg
+ D docs/assets/img/inner-4.jpg
+ D docs/assets/img/post-1.jpg
+ D docs/assets/img/post-2.jpg
+ D docs/assets/img/post-3.jpg
+ D docs/assets/img/post-4.jpg
+ D docs/assets/img/post-5.jpg
+ D docs/assets/img/post-6.jpg
+ D docs/assets/img/post-7.jpg
+ D docs/assets/img/post-8.jpg
+ D docs/assets/img/post-9.jpg
+ D docs/assets/img/post-inner-1.jpg
+ D docs/assets/img/post-inner-2.jpg
+ D docs/assets/img/post-inner-3.jpg
+ D docs/assets/img/project-1.jpg
+ D docs/assets/img/project-10.jpg
+ D docs/assets/img/project-11.jpg
+ D docs/assets/img/project-12.jpg
+ D docs/assets/img/project-13.jpg
+ D docs/assets/img/project-14.jpg
+ D docs/assets/img/project-15.jpg
+ D docs/assets/img/project-1h.jpg
+ D docs/assets/img/project-2.jpg
+ D docs/assets/img/project-3.jpg
+ D docs/assets/img/project-4.jpg
+ D docs/assets/img/project-5.jpg
+ D docs/assets/img/project-6.jpg
+ D docs/assets/img/project-7.jpg
+ D docs/assets/img/project-8.jpg
+ D docs/assets/img/project-9.jpg
+ D docs/assets/img/symbols.svg
+ D docs/assets/img/team-1.jpg
+ D docs/assets/img/team-2.jpg
+ D docs/assets/img/team-3.jpg
+ D docs/assets/img/urku-ico.svg
+ D docs/assets/img/user-1.jpg
+ D docs/assets/img/user-2.jpg
+ D docs/assets/img/user-3.jpg
+ D docs/assets/info-cursos/cur-1.jpg
+ D docs/assets/info-cursos/cur-1/cur-1.jpg
+ D docs/assets/info-cursos/cur-1/main.jpg
+ D docs/assets/info-cursos/cur-10.jpg
+ D docs/assets/info-cursos/cur-10/cur-10.jpg
+ D docs/assets/info-cursos/cur-10/main.jpg
+ D docs/assets/info-cursos/cur-2.jpg
+ D docs/assets/info-cursos/cur-2/cur-2.jpg
+ D docs/assets/info-cursos/cur-2/main.jpg
+ D docs/assets/info-cursos/cur-3.jpg
+ D docs/assets/info-cursos/cur-3/cur-3.jpg
+ D docs/assets/info-cursos/cur-3/main.jpg
+ D docs/assets/info-cursos/cur-4.jpg
+ D docs/assets/info-cursos/cur-4/cur-4.jpg
+ D docs/assets/info-cursos/cur-4/main.jpg
+ D docs/assets/info-cursos/cur-5.jpg
+ D docs/assets/info-cursos/cur-5/cur-5.jpg
+ D docs/assets/info-cursos/cur-5/main.jpg
+ D docs/assets/info-cursos/cur-5/pic-1.jpg
+ D docs/assets/info-cursos/cur-6.jpg
+ D docs/assets/info-cursos/cur-6/cur-6.jpg
+ D docs/assets/info-cursos/cur-6/main.jpg
+ D docs/assets/info-cursos/cur-6/pic-1.jpg
+ D docs/assets/info-cursos/cur-7.jpg
+ D docs/assets/info-cursos/cur-7/cur-7.jpg
+ D docs/assets/info-cursos/cur-7/main.jpg
+ D docs/assets/info-cursos/cur-8.jpg
+ D docs/assets/info-cursos/cur-8/cur-8.jpg
+ D docs/assets/info-cursos/cur-8/main.jpg
+ D docs/assets/info-cursos/cur-9.jpg
+ D docs/assets/info-cursos/cur-9/cur-9.jpg
+ D docs/assets/info-cursos/cur-9/main.jpg
+ D docs/assets/js/fontfaceobserver.js
+ D docs/assets/js/main.js
+ D docs/assets/js/main.min.js
+ D docs/assets/js/pe-hoverimage.js
+ D docs/assets/js/pe-hoverimage.min.js
+ D docs/assets/js/pe-navscroll.min.js
+ D docs/assets/js/svg4everybody.min.js
+ D docs/assets/js/svg4everybody.min.min.js
+ D docs/favicon.ico
+ D docs/index.html
+ D docs/main-es2015.4bfc716f135390902a8b.js
+ D docs/main-es5.4bfc716f135390902a8b.js
+ D docs/polyfills-es2015.0ef207fb7b4761464817.js
+ D docs/polyfills-es5.2b9ce34c123ac007a8ba.js
+ D docs/runtime-es2015.e8a2810b3b08d6a1b6aa.js
+ D docs/runtime-es5.e8a2810b3b08d6a1b6aa.js
+ D docs/styles.9aa95b777a2c31d5a3ea.css
+ M src/app/app-routing.module.ts
+ M src/app/app.module.ts
+ M src/app/pages/about/about.component.html
+ M src/app/shared/header/header.component.html
+?? src/app/pages/escuelas/
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git add .
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/pages/about/about.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/shared/header/header.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/pages/escuelas/escuelas.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/pages/escuelas/escuelas.component.ts.
+The file will have its original line endings in your working directory
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git commit -m "vista de los centris escolares"
+[master 5acb8c2] vista de los centris escolares
+ 184 files changed, 100 insertions(+), 21447 deletions(-)
+ delete mode 100644 docs/3rdpartylicenses.txt
+ delete mode 100644 docs/assets/css/_ae/aurora-grid/dist/aurora-grid-debug.css
+ delete mode 100644 docs/assets/css/_ae/aurora-grid/dist/aurora-grid-debug.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-grid/dist/aurora-grid.css
+ delete mode 100644 docs/assets/css/_ae/aurora-grid/dist/aurora-grid.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/aurora-theme-base.css
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/aurora-theme-base.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-black.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-bold.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-regular.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-theme/dist/fonts/aurora-theme-base-fonts/aileron-semibold.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/aurora-type-debug.css
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/aurora-type.css
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/aurora-type.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-black.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-bold.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-regular.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.eot
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.svg
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.ttf
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.woff
+ delete mode 100644 docs/assets/css/_ae/aurora-type/dist/fonts/aileron-semibold.woff2
+ delete mode 100644 docs/assets/css/_ae/aurora-ui/dist/aurora-ui-debug.css
+ delete mode 100644 docs/assets/css/_ae/aurora-ui/dist/aurora-ui-debug.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-ui/dist/aurora-ui.css
+ delete mode 100644 docs/assets/css/_ae/aurora-ui/dist/aurora-ui.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-utils/dist/aurora-utils-debug.css
+ delete mode 100644 docs/assets/css/_ae/aurora-utils/dist/aurora-utils-debug.min.css
+ delete mode 100644 docs/assets/css/_ae/aurora-utils/dist/aurora-utils.css
+ delete mode 100644 docs/assets/css/_ae/aurora-utils/dist/aurora-utils.min.css
+ delete mode 100644 docs/assets/css/_aurora-pack.css
+ delete mode 100644 docs/assets/css/_aurora-pack.min.css
+ delete mode 100644 docs/assets/css/aurora-pack.css
+ delete mode 100644 docs/assets/css/aurora-pack.min.css
+ delete mode 100644 docs/assets/css/aurora-theme-base.css
+ delete mode 100644 docs/assets/css/aurora-theme-base.min.css
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.eot
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.svg
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.ttf
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.woff
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-black.woff2
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.eot
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.svg
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.ttf
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.woff
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-bold.woff2
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.eot
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.svg
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.ttf
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.woff
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-regular.woff2
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.eot
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.svg
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.ttf
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.woff
+ delete mode 100644 docs/assets/css/fonts/aurora-theme-base-fonts/aileron-semibold.woff2
+ delete mode 100644 docs/assets/css/urku.css
+ delete mode 100644 docs/assets/css/urku.min.css
+ delete mode 100644 docs/assets/data/data-pagina.json
+ delete mode 100644 docs/assets/img/Pacman-1s-200px.svg
+ delete mode 100644 docs/assets/img/inner-1.jpg
+ delete mode 100644 docs/assets/img/inner-2.jpg
+ delete mode 100644 docs/assets/img/inner-3.jpg
+ delete mode 100644 docs/assets/img/inner-4.jpg
+ delete mode 100644 docs/assets/img/post-1.jpg
+ delete mode 100644 docs/assets/img/post-2.jpg
+ delete mode 100644 docs/assets/img/post-3.jpg
+ delete mode 100644 docs/assets/img/post-4.jpg
+ delete mode 100644 docs/assets/img/post-5.jpg
+ delete mode 100644 docs/assets/img/post-6.jpg
+ delete mode 100644 docs/assets/img/post-7.jpg
+ delete mode 100644 docs/assets/img/post-8.jpg
+ delete mode 100644 docs/assets/img/post-9.jpg
+ delete mode 100644 docs/assets/img/post-inner-1.jpg
+ delete mode 100644 docs/assets/img/post-inner-2.jpg
+ delete mode 100644 docs/assets/img/post-inner-3.jpg
+ delete mode 100644 docs/assets/img/project-1.jpg
+ delete mode 100644 docs/assets/img/project-10.jpg
+ delete mode 100644 docs/assets/img/project-11.jpg
+ delete mode 100644 docs/assets/img/project-12.jpg
+ delete mode 100644 docs/assets/img/project-13.jpg
+ delete mode 100644 docs/assets/img/project-14.jpg
+ delete mode 100644 docs/assets/img/project-15.jpg
+ delete mode 100644 docs/assets/img/project-1h.jpg
+ delete mode 100644 docs/assets/img/project-2.jpg
+ delete mode 100644 docs/assets/img/project-3.jpg
+ delete mode 100644 docs/assets/img/project-4.jpg
+ delete mode 100644 docs/assets/img/project-5.jpg
+ delete mode 100644 docs/assets/img/project-6.jpg
+ delete mode 100644 docs/assets/img/project-7.jpg
+ delete mode 100644 docs/assets/img/project-8.jpg
+ delete mode 100644 docs/assets/img/project-9.jpg
+ delete mode 100644 docs/assets/img/symbols.svg
+ delete mode 100644 docs/assets/img/team-1.jpg
+ delete mode 100644 docs/assets/img/team-2.jpg
+ delete mode 100644 docs/assets/img/team-3.jpg
+ delete mode 100644 docs/assets/img/urku-ico.svg
+ delete mode 100644 docs/assets/img/user-1.jpg
+ delete mode 100644 docs/assets/img/user-2.jpg
+ delete mode 100644 docs/assets/img/user-3.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-1.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-1/cur-1.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-1/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-10.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-10/cur-10.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-10/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-2.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-2/cur-2.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-2/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-3.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-3/cur-3.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-3/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-4.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-4/cur-4.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-4/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-5.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-5/cur-5.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-5/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-5/pic-1.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-6.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-6/cur-6.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-6/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-6/pic-1.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-7.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-7/cur-7.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-7/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-8.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-8/cur-8.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-8/main.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-9.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-9/cur-9.jpg
+ delete mode 100644 docs/assets/info-cursos/cur-9/main.jpg
+ delete mode 100644 docs/assets/js/fontfaceobserver.js
+ delete mode 100644 docs/assets/js/main.js
+ delete mode 100644 docs/assets/js/main.min.js
+ delete mode 100644 docs/assets/js/pe-hoverimage.js
+ delete mode 100644 docs/assets/js/pe-hoverimage.min.js
+ delete mode 100644 docs/assets/js/pe-navscroll.min.js
+ delete mode 100644 docs/assets/js/svg4everybody.min.js
+ delete mode 100644 docs/assets/js/svg4everybody.min.min.js
+ delete mode 100644 docs/favicon.ico
+ delete mode 100644 docs/index.html
+ delete mode 100644 docs/main-es2015.4bfc716f135390902a8b.js
+ delete mode 100644 docs/main-es5.4bfc716f135390902a8b.js
+ delete mode 100644 docs/polyfills-es2015.0ef207fb7b4761464817.js
+ delete mode 100644 docs/polyfills-es5.2b9ce34c123ac007a8ba.js
+ delete mode 100644 docs/runtime-es2015.e8a2810b3b08d6a1b6aa.js
+ delete mode 100644 docs/runtime-es5.e8a2810b3b08d6a1b6aa.js
+ delete mode 100644 docs/styles.9aa95b777a2c31d5a3ea.css
+ rename docs/assets/css/_ae/aurora-type/dist/aurora-type-debug.min.css => src/app/pages/escuelas/escuelas.component.css (100%)
+ create mode 100644 src/app/pages/escuelas/escuelas.component.html
+ create mode 100644 src/app/pages/escuelas/escuelas.component.ts
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git s
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git remote add origin git@github.com:raag2018/saebc.git
+fatal: remote origin already exists.
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git push -u origin master
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ cd
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~
+$ cd ~/.ssh/
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ ls
+known_hosts
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ ssh-keygen -t rsa -b 4096 -C "roberto3652017@gmail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/PEDRINSKY/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/PEDRINSKY/.ssh/id_rsa.
+Your public key has been saved in /c/Users/PEDRINSKY/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:+4HtL9Thq2sZOt3ake8IXa5ijZ4nxqNrrpddS+nArjc roberto3652017@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|                 |
+|                 |
+|                 |
+|            .    |
+|        S. o o.  |
+|         +=.*+   |
+|        oO+@+o.  |
+|        *oE=B=   |
+|      .==@O%=.o  |
++----[SHA256]-----+
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ ls
+id_rsa  id_rsa.pub  known_hosts
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ ^C
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ eval $(ssh-agent -s)
+Agent pid 196
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ ssh-add ~/.ssh/id_rsa
+Identity added: /c/Users/PEDRINSKY/.ssh/id_rsa (roberto3652017@gmail.com)
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ clip < ~/.ssh/id_rsa.pub
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 ~/.ssh
+$ cd c:\xampp
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp
+$ cd htdocs
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs
+$ cd saebc
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git remote add origin git@github.com:raag2018/saebc.git
+fatal: remote origin already exists.
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git remote -v
+origin  git@github.com:raag2018/innovacion-saebc.git (fetch)
+origin  git@github.com:raag2018/innovacion-saebc.git (push)
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git s
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git push -u origin master
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git push -u origin master
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$ git push -u origin master
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+PEDRINSKY@DESKTOP-BVJU8SG MINGW64 /c/xampp/htdocs/saebc (master)
+$

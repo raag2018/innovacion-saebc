@@ -1,0 +1,52 @@
+[
+    {   
+        "codigo": "11808",
+        "sector": "Publico",
+        "nombre": "Centro Escolar Anita Alvarado",
+        "direccion": "Final 4. av. Norte, Barrio Concepcion",
+        "telefono": "23720280",
+        "correo": "ceanitaalvarado@yahoo.es",
+        "facebook": "ceanitaalvarado",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.919336219478!2d-88.93531728523607!3d13.72333329036593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6350064984fb93%3A0xa038e2cb7685a0d6!2sCentro%20Escolar%20Anita%20Alvarado!5e0!3m2!1ses-419!2ssv!4v1569520681255!5m2!1ses-419!2ssv"
+    },
+    {   
+        "codigo": "11807",
+        "sector": "Publico",
+        "nombre": "Centro Escolar Candelario Cuellar",
+        "direccion": "Final Primera Calle Oriente, Barrio Santa Lucia",
+        "telefono": "23722348",
+        "correo": "cecandelariocuellar@yahoo.es",
+        "facebook": "Centro-Escolar-Candelario-Cuellar-173924562703417",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.9493954995314!2d-88.9317927852361!3d13.721513590367081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f635008d764c371%3A0xf0891e5ea2626bdf!2sCentro%20Escolar%20Candelario%20Cu%C3%A9llar!5e0!3m2!1ses-419!2ssv!4v1569520722798!5m2!1ses-419!2ssv"
+    },
+    {   
+        "codigo": "11813",
+        "sector": "Publico",
+        "nombre": "Centro Escolar Nestor Salamanca",
+        "direccion": "Primera calle poniente y septima Av. Norte, Barrio El Calvario",
+        "telefono": "23720497",
+        "correo": "cenestorsalamanca@yahoo.es",
+        "facebook": "Centro-Escolar-Nestor-Salamanca-118479434931575/",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.9109935269726!2d-88.94054638523609!3d13.723838290365556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f635000e2b7f333%3A0xfb781fd99e0958be!2sCentro%20Escolar%20Nestor%20Salamanca!5e0!3m2!1ses-419!2ssv!4v1569520765076!5m2!1ses-419!2ssv"
+    },
+    {   
+        "codigo": "103411",
+        "sector": "Instituto Nacional Walter Thilo Deininger",
+        "nombre": "Publico",
+        "direccion": "COL. Y AV. CUSCATLAN KM 32 1/2 ANTIGUA CARRETERA PANAMERICANA",
+        "correo": "inwtd35@hotmail.com",
+        "telefono": "23720220",
+        "facebook": "walter1947",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.8513320239485!2d-88.95189468523606!3d13.727449190363206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f634557c2b6bf37%3A0xf46e77c69d912ebd!2sWalter%20Thilo%20Deininger!5e0!3m2!1ses-419!2ssv!4v1569520540235!5m2!1ses-419!2ssv"
+    },
+    {   
+        "codigo": "3044879",
+        "sector": "Privado",
+        "nombre": "Instituto Politecnico Henry Ford",
+        "direccion": "2a Calle Poniente #48 Barrio El Calvario, 1/2 cuadra al poniento del Monumento a la Madre Cojutepeque",
+        "telefono": "23723243",
+        "correo": "infophf@gmail.com",
+        "facebook": "IPHF.elsalvador",
+        "iframe": "https://her.is/34kZFNW"
+    }   
+]

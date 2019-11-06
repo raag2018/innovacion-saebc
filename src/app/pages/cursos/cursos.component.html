@@ -27,9 +27,21 @@
       <p>
         Espere por favor
       </p>
-  
+    
     </div>
-      <div *ngIf="!_cursos.cargando" class="ae-masonry ae-masonry-md-2  ae-masonry-lg-3 ae-masonry-xl-3">
+    <div class="ae-grid ae-grid--collapse inner-box-3">
+        <div class="ae-grid__item item-lg-10 item-lg--offset-1">
+          <blockquote class="au-xs-ta-center">
+            <p class="ae-delta au-italic">
+              “A los niños se les debe eneñar pensar, no qué pensar”
+              </p>
+            <footer> 
+              <p class="ae-theta">Por <span class="ae-u-bolder">Margaret Mead</span></p>
+            </footer>
+          </blockquote>
+        </div>
+      </div>
+    <div *ngIf="!_cursos.cargando" class="ae-masonry ae-masonry-md-2  ae-masonry-lg-3 ae-masonry-xl-3">
         <a *ngFor="let item of _cursos.cursos" [routerLink]="['/item', item.cod]" class="rk-item ae-masonry__item">
           <img src="assets/info-cursos/{{ item.url }}.jpg" alt="">
           <div [routerLink]="['/item', item.cod]" class="item-meta">
@@ -37,7 +49,6 @@
             <p>{{ item.tutor }}</p>
           </div>
         </a>
-          
-               </div>
+    </div>
 
   </section>
