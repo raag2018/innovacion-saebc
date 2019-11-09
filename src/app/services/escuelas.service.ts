@@ -9,7 +9,8 @@ import { reject } from 'q';
 })
 export class EscuelasService {
 escuelaServ: escuelasInterface[] = [];
-  constructor(private http: HttpClient) { 
+mapa : "";
+constructor(private http: HttpClient) { 
     this.cargarEscuelas();
 
   }
@@ -17,11 +18,12 @@ escuelaServ: escuelasInterface[] = [];
   private cargarEscuelas(){
     return new Promise((resolve, reject) =>{
       this.http.get('https://saebc-96a8a.firebaseio.com/escuelas.json')
-      .subscribe((resp: escuelasInterface[])=>{
+      .subscribe((resp: escuelasInterface[]) =>{
         this.escuelaServ = resp;
-        console.log(resp);
+        
+        //console.log(resp.iframe);
         resolve();
-      })
-    })
+      });
+    });
   }
 }

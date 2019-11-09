@@ -6,5 +6,5 @@ export interface escuelasInterface{
     telefono: string;
     correo: string;
     facebook: string;
-    oframe: string;
+    iframe: string;
 }
