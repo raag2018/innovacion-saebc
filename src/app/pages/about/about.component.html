@@ -1,20 +1,21 @@
-<div class="ae-grid au-xs-ta-center au-mb-4">
-    
-  <div *ngFor="let persona of _equipo.equipo" class="ae-grid__item item-lg-4 ae-kappa au-mb-3">
-    <img [src]="persona.url" alt="" class="au-mb-3" width="50%" height="50%">
+<section class="ae-container-fluid ae-container-fluid--inner rk-portfolio">
+
+
+  <div class="ae-grid au-xs-ta-center au-mb-4">
+
+    <div *ngFor="let persona of _equipo.equipo" class="ae-grid__item item-lg-4 ae-kappa au-mb-3">
+      <img [src]="persona.url" alt="" class="au-mb-3" width="50%" height="50%">
       <h5 class="ae-u-bolder au-mt-2">{{persona.nombre}}</h5>
       <p class="ae-u-bolder au-mb-3">{{persona.profesion}}</p>
       <p class="au-lg-ta-left au-mb-3 au-pl-4 au-pr-4">
-          {{persona.carrera}}</p>
-        
-        <a target="_blank" href="https://www.facebook.com/{{persona.facebook}}" class=" ae-u-bolder au-underline">
-          <svg class="rk-social-btn">
-              <use xlink:href="assets/img/symbols.svg#icon-facebook"></use>
-            </svg>
-          {{persona.facebook}}</a>
-  </div>
+        {{persona.carrera}}</p>
 
-   
+      <a target="_blank" href="https://www.facebook.com/{{persona.facebook}}" class=" ae-u-bolder au-underline">
+        <svg class="rk-social-btn">
+          <use xlink:href="assets/img/symbols.svg#icon-facebook"></use>
+        </svg>
+        {{persona.facebook}}</a>
+    </div>
 
   </div>
   <div class="ae-grid au-pt-2">
@@ -28,28 +29,29 @@
   <div class="ae-grid ae-grid--alt au-xs-ptp-1">
     <div class="ae-grid__item--alt item-lg-4">
       <h6 class="ae-u-boldest">¿Quienes somos?</h6>
-      <p class="au-lh-3 align-content-around" >
-          Somos una iniciativa  sin fines de lucro que busca generar un impacto positivo en la sociedad salvadoreña, 
-          en concreto  mediante la educación, poniendo a dispocición de niños, jovenes y toda aquella persona con 
-          deseos de superación herramientas para la autoformación técnica.
-      </p> 
+      <p class="au-lh-3 align-content-around">
+        Somos una iniciativa sin fines de lucro que busca generar un impacto positivo en la sociedad salvadoreña,
+        en concreto mediante la educación, poniendo a dispocición de niños, jovenes y toda aquella persona con
+        deseos de superación herramientas para la autoformación técnica.
+      </p>
     </div>
     <div class="ae-grid__item--alt item-lg-4">
       <h6 class="ae-u-boldest">Nuestra Misión</h6>
       <p class="au-lh-3">
-          Ser una complemento y apoyo representativo a la curricula educativa del sistema de educación salvadoreño,
-          para ampliación y profundización de diferentes areas tecnicas.
+        Ser una complemento y apoyo representativo a la curricula educativa del sistema de educación salvadoreño,
+        para ampliación y profundización de diferentes areas tecnicas.
       </p>
     </div>
     <div class="ae-grid__item--alt item-lg-4">
       <h6 class="ae-u-boldest">¿A quienes va dirigido?</h6>
-     <p class="au-lh-3">
-        Centros educativos, alumnos, docentes y  la población en general.
-     </p>
+      <p class="au-lh-3">
+        Centros educativos, alumnos, docentes y la población en general.
+      </p>
     </div>
   </div>
-  <p class="au-flex au-pt-4 group-buttons"><a routerLink="home" class="au-mt-4 arrow-button arrow-button--right arrow-button--out">Ver Cursos<span class="arrow-cont">
+  <p class="au-flex au-pt-4 group-buttons"><a routerLink="home"
+      class="au-mt-4 arrow-button arrow-button--right arrow-button--out">Ver Cursos<span class="arrow-cont">
         <svg>
           <use xlink:href="assets/img/symbols.svg#arrow"></use>
         </svg></span></a></p>
-
+</section>
